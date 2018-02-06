@@ -5,7 +5,10 @@ public class EmptyConstructor {
     public EmptyConstructor() {}
 
     static class Bar {
-        Bar(){}
+        Bar(){
+
+
+        }
     }
 
 }
